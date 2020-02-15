@@ -1,5 +1,9 @@
 hello world
 
-new one
+<<<<<<< HEAD
+
 
 这是master分支
+=======
+new onjjjdfdfdfe
+>>>>>>> branch2
